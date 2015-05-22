@@ -1,0 +1,9 @@
+Package: com.richardlindsay.alarmrestrict7
+Name: AlarmRestrict7
+Depends: mobilesubstrate
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Disable alarms if power is connected or disconnected, bluetooth is connected or media is playing!
+Maintainer: Richard Lindsay
+Author: Richard Lindsay
+Section: Tweaks
